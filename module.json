@@ -231,13 +231,13 @@
       "type": "system",
       "compatibility": {
         "minimum": "6.7.2",
-        "verified": "6.7.2"
+        "verified": "7.2.0"
       }
     }]
   },
   "compatibility": {
-    "maximum": "12",
+    "maximum": "13",
     "minimum": "12.331",
-    "verified": "12.331"
+    "verified": "13.345"
   }
 }
